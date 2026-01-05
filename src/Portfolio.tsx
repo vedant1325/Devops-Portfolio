@@ -215,7 +215,7 @@ export default function Portfolio() {
             className="rounded-2xl md:rounded-3xl p-5 md:p-8 bg-gradient-to-r from-pink-500/10 to-purple-500/10 border border-pink-400/30 shadow-[0_0_20px_rgba(236,72,153,0.2)]"
           >
             <h3 className="text-xl md:text-2xl font-semibold text-pink-400">Frontend Developer Intern – LocationGuru</h3>
-            <p className="text-gray-400 text-sm md:text-base">Jan 2025 – July 2025</p>
+            <p className="text-gray-400 text-sm md:text-base">Jan 2025 – Mar 2025</p>
             <ul className="list-disc list-inside mt-3 text-gray-300 text-sm md:text-base space-y-1">
               <li>React.js UI development</li>
               <li>Tailwind CSS design systems</li>

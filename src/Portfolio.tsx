@@ -132,7 +132,7 @@ export default function Portfolio() {
             LinkedIn
           </a>
           <a
-            href="/Resume.pdf"
+            href="/Vedant_Dange_Full Stack Developer_DevOps.pdf"
             download
             className="px-7 py-3 rounded-full border border-green-400 text-green-400 hover:bg-green-400 hover:text-black transition shadow-[0_0_20px_#22eeaa] flex items-center gap-2 justify-center"
           >
